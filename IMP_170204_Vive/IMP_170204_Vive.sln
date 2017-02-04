@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMP_170204_Vive", "IMP_170204_Vive.csproj", "{4FB36A40-9889-6042-7B1A-5D885ED183D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMP_170204_Vive.Editor", "IMP_170204_Vive.Editor.csproj", "{4C50F11D-F294-9706-9A1D-4CE31377A4A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FB36A40-9889-6042-7B1A-5D885ED183D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FB36A40-9889-6042-7B1A-5D885ED183D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FB36A40-9889-6042-7B1A-5D885ED183D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FB36A40-9889-6042-7B1A-5D885ED183D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C50F11D-F294-9706-9A1D-4CE31377A4A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C50F11D-F294-9706-9A1D-4CE31377A4A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C50F11D-F294-9706-9A1D-4CE31377A4A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C50F11D-F294-9706-9A1D-4CE31377A4A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
