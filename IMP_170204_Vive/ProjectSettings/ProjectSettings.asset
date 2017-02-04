@@ -77,14 +77,14 @@ PlayerSettings:
   resizableWindow: 1
   useMacAppStoreValidation: 0
   gpuSkinning: 1
-  graphicsJobs: 0
+  graphicsJobs: 1
   xboxPIXTextureCapture: 0
   xboxEnableAvatar: 0
   xboxEnableKinect: 0
   xboxEnableKinectAutoTracking: 0
   xboxEnableFitness: 0
   visibleInBackground: 1
-  allowFullscreenSwitch: 1
+  allowFullscreenSwitch: 0
   macFullscreenMode: 2
   d3d9FullscreenMode: 1
   d3d11FullscreenMode: 1
@@ -215,6 +215,7 @@ PlayerSettings:
   - m_BuildTarget: Standalone
     m_Enabled: 1
     m_Devices:
+    - None
     - OpenVR
   openGLRequireES31: 0
   openGLRequireES31AEP: 0
@@ -384,7 +385,7 @@ PlayerSettings:
   webGLUseWasm: 0
   webGLCompressionFormat: 1
   scriptingDefineSymbols:
-    1: VRTK_SDK_STEAMVR
+    1: VRTK_SDK_SIM
   platformArchitecture: {}
   scriptingBackend: {}
   incrementalIl2cppBuild: {}
